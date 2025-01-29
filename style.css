@@ -76,7 +76,7 @@ ul li::before{
     position: absolute;
     height: 21px;
     width: 20px;
-    background-image: url(/Imgs/images-removebg-preview.png);
+    background-image: url(images-removebg-preview.png);
     background-size: cover;
     bottom: 11px;
     left: 1px;
@@ -88,7 +88,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(/Imgs/checkedimg.png);
+    background-image: url(checkedimg.png);
 }
 
 ul li span {
